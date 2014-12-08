@@ -6,6 +6,18 @@ Cesium is a JavaScript library for creating 3D globes and 2D maps in a web brows
 
 http://cesiumjs.org/
 
+Each Cesium release contains:
+
+<ul>
+<li>The HTML reference documentation, located in the Build/Documentation directory.</li>
+<li>Cesium.js and all required dependencies, located in the Build/Cesium directory.</li>
+<li>Asynchronous Module Definition (AMD) modules, located in Source.</li>
+<li>HelloWorld.html, the simplest possible Cesium application, loaded in Apps/HelloWorld.html</li>
+<li>Cesium Viewer, in source form at Apps/CesiumViewer and as a standalone, minified version ready for deployment at Build/Apps/CesiumViewer.</li>
+<li>Cesium Sandcastle, a live code editor and example gallery, at Apps/Sandcastle.</li>
+<li>A Node.js-based development server for getting up and running quickly.</li>
+</ul>
+
 ### Get Started ###
 
 See the [Cesium Up and Running](http://cesiumjs.org/2013/04/12/Cesium-up-and-running/) tutorial.  Have questions?  Ask them on the [forum](https://groups.google.com/d/forum/cesium-dev).
